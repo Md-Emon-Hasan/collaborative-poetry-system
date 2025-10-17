@@ -1,0 +1,18 @@
+# Core LLM dependencies
+langchain>=0.1.0
+langchain-groq>=0.1.0
+langgraph>=0.0.20
+groq>=0.4.0
+
+# Document processing
+Pillow>=10.0.0
+pytesseract>=0.3.10
+PyPDF2>=3.0.0
+python-docx>=1.0.0
+
+# Optional: Audio generation 
+gTTS>=2.3.0
+pyttsx3>=2.90
+
+# Utilities
+python-dotenv>=1.0.0
