@@ -108,7 +108,7 @@ collaborative-poetry-system/
 ├── requirements.txt           # Dependencies
 ├── README.md                  # This file
 ├── DESIGN.md                  # Design decisions & approach
-├── RUN.md                     # Run locally
+├── Run_Locally.md             # Run locally
 ├── sample_document.txt        # Auto-generated sample
 ├── poem_results.json          # Output file
 ├── poem_audio.wav             # Generated Audio
@@ -790,11 +790,5 @@ export_poem_markdown(results, "poem.md")
 ### Groq
 - [Groq Documentation](https://console.groq.com/docs)
 - [Groq Playground](https://console.groq.com/playground)
-
----
-
-## License
-
-MIT License - Free to use and modify
 
 ---
